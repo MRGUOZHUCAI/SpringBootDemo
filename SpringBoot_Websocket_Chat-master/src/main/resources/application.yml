@@ -1,0 +1,11 @@
+spring:
+
+server:
+  context-path: /chat
+  port: 8000
+
+
+thymelea:
+  prefix:
+     classpath: /templates/
+     suffix: .html
